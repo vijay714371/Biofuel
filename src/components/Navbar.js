@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <>
    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#"><img src="https://th.bing.com/th/id/OIP.uwO5sumeTx1kMuZp3l1M7wHaH6?pid=ImgDet&rs=1" class="img-fluid" style={{"width":"45px", "heigth":"45px"}}></img></a>
+  <a class="navbar-brand" href="#"><img src="https://yt3.ggpht.com/a/AGF-l7_lx8I-Z89SV-BuQqqvKxRdTw_BqdYEFzO0Pw=s900-c-k-c0xffffffff-no-rj-mo" class="img-fluid" style={{"width":"45px", "heigth":"45px"}}></img></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
